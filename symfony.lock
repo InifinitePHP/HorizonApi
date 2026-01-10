@@ -87,6 +87,9 @@
             "bin/phpunit"
         ]
     },
+    "rehark/api-generator-bundle": {
+        "version": "dev-main"
+    },
     "symfony/console": {
         "version": "7.4",
         "recipe": {
