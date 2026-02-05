@@ -1,7 +1,7 @@
 <?php
 
+use App\Api\Controller\Auth\UserController;
 use Symfony\Component\Routing\Loader\Configurator\RoutingConfigurator;
-use App\Api\Auth\UserController;
 
 return function (RoutingConfigurator $routes) {
 
